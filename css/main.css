@@ -19,6 +19,8 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	position: relative;
+	max-width: 250px;
+	
 }
 .img-wrapper--content img {
 	max-width: 100%;
